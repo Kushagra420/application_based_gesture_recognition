@@ -1,0 +1,3 @@
+{ 
+'spotify': ['<insert application path>']
+}
